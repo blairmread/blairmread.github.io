@@ -1,11 +1,11 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #82617B; 
-    color: #FFFFFF; /* The page text will be white */
+    background-color: #E2DDD9; 
+    color: #4C3849;
 }
 nav ul, footer ul {
-    font-family:'Roboto', 'Sans-Serif';
+    font-family:'Roboto';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -23,13 +23,13 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    font-family:'Comic Sans';
-    color: #4B455F;
+    font-family:'Roboto';
+    color: #4C3849;
 }
 p {
     font-size: 1.2em;
     line-height: 1.3em;
-    color: #29293d;
+    color: #262128;
 }
 footer {
     border-top: 1px solid #d5d5d5;
